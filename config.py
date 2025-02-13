@@ -1,0 +1,2 @@
+TOKEN = "6494372838:AAHR1D32IAJ63IpQGQTz3unC8hQEntpQHbQ"
+DATA_BASE = "sample-database.db"
